@@ -1,0 +1,22 @@
+{
+  "name": "pageduo",
+  "displayName": "PageDuo",
+  "version": "1.0.0",
+  "description": "Turn a policy into a graded training, collect forms and signatures, and make Dynamic Docs whose tables calculate, all from Claude.",
+  "author": {
+    "name": "PageDuo",
+    "url": "https://pageduo.ai"
+  },
+  "homepage": "https://pageduo.ai/tutorials/overview/claude-and-chatgpt",
+  "repository": "https://github.com/pageduo-ai/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "training",
+    "quiz",
+    "compliance",
+    "forms",
+    "signatures",
+    "documents"
+  ],
+  "privacyPolicyUrl": "https://pageduo.ai/privacy"
+}

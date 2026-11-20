@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pageduo": {
+      "type": "http",
+      "url": "https://pageduo.ai/mcp"
+    }
+  }
+}
