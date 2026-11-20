@@ -1,8 +1,8 @@
 {
   "name": "pageduo",
   "displayName": "PageDuo",
-  "version": "1.0.0",
-  "description": "Turn a policy into a graded training, collect forms and signatures, and make Dynamic Docs whose tables calculate, all from Claude.",
+  "version": "1.0.1",
+  "description": "Graded quizzes, Dynamic Docs whose tables calculate, and forms and documents to sign, all from Claude.",
   "author": {
     "name": "PageDuo",
     "url": "https://pageduo.ai"
