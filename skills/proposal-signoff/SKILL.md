@@ -1,9 +1,9 @@
 ---
 name: proposal-signoff
-description: Write a proposal or quote as a Dynamic Doc whose pricing table calculates, let the client adjust it, then send it to named people to sign and track who has signed. Use for client proposals, quotes, statements of work and service agreements.
+description: Get a quote, proposal or statement of work signed: a document whose pricing table recalculates when the client changes a quantity, sent to named people who each sign on their own line by link, with who has signed tracked. Use when the user wants a client or partner to sign off on terms, not only a draft to read.
 ---
 
-# Proposal → proposal with sign-off
+# Quote or proposal, signed
 
 1. **Build the proposal.** Call `pageduo_create_doc` with the scope, the line items and how they price (hours × rate, materials, discounts) in `request`, and any brief in `source_material`. State the total in the text too, so it is linked to the table.
 2. **Adjust.** When terms change ("make it 65 an hour", "drop the tiling"), call `pageduo_update` with the `itemId`. Report the new total.

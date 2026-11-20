@@ -1,9 +1,9 @@
 ---
 name: live-report
-description: Turn a weekly or monthly brief into a Dynamic Doc report whose tables calculate and whose figures stay in step, then update it each period by changing the numbers. Use for a Monday brief, a sales or ops report, a budget update or a KPI summary that is shared and revised.
+description: Make a report whose tables recalculate and whose repeated figures stay linked, so each new period is just new numbers: totals, percentages and the sentences quoting them follow. Use when a sales, operations, budget or KPI report is shared with others and revised every week or month, and the user wants the figures to stay right without a separate spreadsheet.
 ---
 
-# Monday brief → live report
+# Report that recalculates
 
 1. **Collect the numbers** the person has (pasted, attached, or listed). Ask only for what is missing to make the tables add up.
 2. **Build it.** Call `pageduo_create_doc` with `request` describing the sections, the tables and how the numbers combine (totals, change from last period, percentages), and the figures in `source_material`. Say which figures the text repeats, so they are linked.
