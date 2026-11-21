@@ -18,5 +18,8 @@
     "signatures",
     "documents"
   ],
-  "privacyPolicyUrl": "https://pageduo.ai/privacy"
+  "privacyPolicyUrl": "https://pageduo.ai/privacy",
+  "termsOfServiceUrl": "https://pageduo.ai/terms",
+  "documentationUrl": "https://pageduo.ai/tutorials/overview/claude-and-chatgpt",
+  "supportUrl": "https://pageduo.ai/support"
 }
