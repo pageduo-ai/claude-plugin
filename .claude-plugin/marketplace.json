@@ -1,0 +1,15 @@
+{
+  "name": "pageduo",
+  "description": "PageDuo for Claude: quizzes, Dynamic Docs and signing.",
+  "owner": {
+    "name": "PageDuo",
+    "email": "support@pageduo.ai"
+  },
+  "plugins": [
+    {
+      "name": "pageduo",
+      "source": "./",
+      "description": "Graded quizzes, Dynamic Docs whose tables calculate, and forms and documents to sign, all from Claude."
+    }
+  ]
+}
