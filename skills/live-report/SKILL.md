@@ -1,6 +1,6 @@
 ---
 name: live-report
-description: Make a report whose tables recalculate and whose repeated figures stay linked, so each new period is just new numbers: totals, percentages and the sentences quoting them follow. Use when a sales, operations, budget or KPI report is shared with others and revised every week or month, and the user wants the figures to stay right without a separate spreadsheet.
+description: "Make a report whose tables recalculate and whose repeated figures stay linked, so each new period is just new numbers: totals, percentages and the sentences quoting them follow. Use when a sales, operations, budget or KPI report is shared with others and revised every week or month, and the user wants the figures to stay right without a separate spreadsheet."
 ---
 
 # Report that recalculates

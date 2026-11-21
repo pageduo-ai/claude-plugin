@@ -1,6 +1,6 @@
 ---
 name: policy-training
-description: Turn a policy, handbook, SOP or slide deck into a graded training check that staff take at a link, then report who passed, who failed and who has not done it. Use when someone wants employees, new hires or contractors to show they understood a document.
+description: "Turn a policy, handbook, SOP or slide deck into a graded training check that staff take at a link, then report who passed, who failed and who has not done it. Use when someone wants employees, new hires or contractors to show they understood a document."
 ---
 
 # Policy → graded training

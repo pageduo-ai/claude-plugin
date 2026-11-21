@@ -1,6 +1,6 @@
 ---
 name: proposal-signoff
-description: Get a quote, proposal or statement of work signed: a document whose pricing table recalculates when the client changes a quantity, sent to named people who each sign on their own line by link, with who has signed tracked. Use when the user wants a client or partner to sign off on terms, not only a draft to read.
+description: "Get a quote, proposal or statement of work signed: a document whose pricing table recalculates when the client changes a quantity, sent to named people who each sign on their own line by link, with who has signed tracked. Use when the user wants a client or partner to sign off on terms, not only a draft to read."
 ---
 
 # Quote or proposal, signed

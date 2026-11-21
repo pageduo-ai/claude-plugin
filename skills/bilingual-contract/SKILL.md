@@ -1,6 +1,6 @@
 ---
 name: bilingual-contract
-description: Write an agreement, policy or notice in two languages side by side, with each paragraph's translation kept in step and repeated terms (dates, amounts, durations) linked, then optionally send it for signature. Use for bilingual office documents such as supplier agreements, staff policies and notices.
+description: "Write an agreement, policy or notice in two languages side by side, with each paragraph's translation kept in step and repeated terms (dates, amounts, durations) linked, then optionally send it for signature. Use for bilingual office documents such as supplier agreements, staff policies and notices."
 ---
 
 # Bilingual contract
